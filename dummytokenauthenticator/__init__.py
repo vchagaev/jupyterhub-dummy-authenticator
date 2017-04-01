@@ -1,0 +1,3 @@
+from dummytokenauthenticator.dummytokenauthenticator import DummyTokenAuthenticator
+
+__all__ = [DummyTokenAuthenticator]
