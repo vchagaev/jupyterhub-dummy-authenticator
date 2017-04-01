@@ -8,5 +8,5 @@ setup(
     author='Yuvi Panda',
     author_email='yuvipanda@riseup.net',
     license='3 Clause BSD',
-    packages=['dummyauthenticator'],
+    packages=['dummytokenauthenticator'],
 )
